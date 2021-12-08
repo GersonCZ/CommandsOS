@@ -22,8 +22,8 @@ Comandos <br />
 * whoami
 * man
 * pwd
-* nano <nombre archivo> 
-* cat <nombre archivo>
+* nano <<Nomombre archivo>> 
+* cat <Nombre archivo>
 * mkdir <Nombre archivo>
 * Touch <Nombre archivo>
 * cp <Nombre archivo 1> <Nombre archivo 2>
