@@ -4,7 +4,9 @@ Sistemas Operativos**
 
 ## Comandos
 
-En el curso de sistemas operativos se vieron diversos comandos que son importantes en lo que es el desarrollo
+En el curso de sistemas operativos se vieron diversos comandos que permiten el desarrollo de diversos trabajos efectuados durante el curso
+
+Comandos
 
 
 
