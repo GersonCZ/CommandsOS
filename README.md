@@ -47,7 +47,7 @@ Comandos <br />
 ## Tabla de Comandos
 En esta tabla se va a dar a conocer los comandos mencionados anteriormente junto con la funcio de estos. Es importante recalcar que los parentisis y lo que hay adentro seran remplazados por el contenido. Por ejemplo: touch (Nombre archivo) seria remplazado por touch holamundo.
 
-| Comando | Funcion | Imagen |
+| Comando | Funcion | 
 | ------------- | ------------- |
 | sudo apt install  | Instalacion de paquetes que el usuario desea  |
 | sudo apt update && sudo apt upgrade  | Ve cuales paquetes necesitan actualizacion yy se encarga de actualizar dichos paquetes   |
