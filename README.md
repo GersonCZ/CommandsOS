@@ -22,10 +22,10 @@ Comandos <br />
 * whoami
 * man
 * pwd
-* nano (Nombre archivo) 
+* nano Nombre archivo) 
 * cat (Nombre archivo) 
 * mkdir (Nombre archivo) 
-* Touch (Nombre archivo) 
+* touch (Nombre archivo) 
 * cp (Nombre archivo 1)  (Nombre archivo 2) 
 * mv (Nombre archivo)  (Directorio) 
 * grep -r {palabra} {ruta}
@@ -45,4 +45,9 @@ Comandos <br />
 * exit
 
 ## Tabla de Comandos
-En esta tabla se va a dar a conocer los comandos mencionados anteriormente junto con la funcio de estos.
+En esta tabla se va a dar a conocer los comandos mencionados anteriormente junto con la funcio de estos. Es importante recalcar que los parentisis y lo que hay adentro seran remplazados por el contenido. Por ejemplo: touch (Nombre archivo) seria remplazado por touch holamundo.
+
+| Comando | Funcion | Imagen |
+| ------------- | ------------- |
+| sudo apt install  | Instalacion de paquetes que el usuario desea  |
+| sudo apt update && sudo apt upgrade  | Ve cuales paquetes necesitan actualizacion yy se encarga de actualizar dichos paquetes   |
