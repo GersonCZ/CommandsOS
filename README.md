@@ -43,3 +43,6 @@ Comandos <br />
 * reboot
 * shutdown
 * exit
+
+## Tabla de Comandos
+En esta tabla se va a dar a conocer los comandos mencionados anteriormente junto con la funcio de estos.
