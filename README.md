@@ -6,7 +6,10 @@ Sistemas Operativos**
 
 En el curso de sistemas operativos se vieron diversos comandos que permiten el desarrollo de diversos trabajos efectuados durante el curso
 
-Comandos
+Comandos <br />
+
+* sudo apt install
+* neofetch
 
 
 
