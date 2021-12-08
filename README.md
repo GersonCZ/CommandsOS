@@ -2,7 +2,7 @@
 **Estudiante: Gerson Centeno Zelaya <br />
 Sistemas Operativos**
 
-##Comandos
+## Comandos
 
 
 
