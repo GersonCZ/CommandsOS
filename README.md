@@ -53,13 +53,13 @@ En esta tabla se va a dar a conocer los comandos mencionados anteriormente junto
 | sudo apt install neofetch | Instala el paquete neofetch que nos mostrara informacion de nuestro sistema operativo y los componente que posee la computadora | 
 | sudo apt install openssh-server | Instalcion del paquete openssh, que permite la conexion ssh |
 | sudo su | Brinda permisos de administrador |
-| neofetch | Paquete que muestra la informacion |
-| ip addr | ------------- |
-| ping (direccion ip) | ------------- |
-| clear | ------------- |
-| whoami | ------------- |
-| man | ------------- |
-| pwd | ------------- |
+| neofetch | Paquete que muestra la informacion sobre los componente de la computadora, y el sistema operativo de este |
+| ip addr | Muestra la direccion ip en la que estamos conectados |
+| ping (direccion ip) | Conecta con la ip que el usuario digite |
+| clear | Limpia los comando que estaban en la consola |
+| whoami | Muestra el usuario que esta presente en el equipo |
+| man | Musestra informacion sobre los comandos |
+| pwd | Imprime el directorio en el nos encontramos desde la raiz |
 | nano Nombre archivo) | ------------- |
 | cat (Nombre archivo) | ------------- |
 | mkdir (Nombre archivo) | ------------- |
