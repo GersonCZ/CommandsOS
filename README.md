@@ -1,5 +1,6 @@
 # CommandsOS
-**Estudiante: Gerson Centeno Zelaya /n**
-**Sistemas Operativos**
+**Estudiante: Gerson Centeno Zelaya
+Sistemas Operativos**
+
 
 
