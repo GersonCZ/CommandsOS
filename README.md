@@ -17,7 +17,7 @@ Comandos <br />
 * neofetch
 * ip addr
 * ip a
-* ping <direccion ip>
+* ping (direccion ip)
 * clear
 * whoami
 * man
@@ -28,9 +28,18 @@ Comandos <br />
 * Touch (Nombre archivo) 
 * cp (Nombre archivo 1)  (Nombre archivo 2) 
 * mv (Nombre archivo)  (Directorio) 
-* pwd
-* pwd
-* pwd 
-* exit
-* man
+* grep -r {palabra} {ruta}
+* find {ruta} -name {nombre}
+* rm -r (folder)
+* rm -rf (folder)
+* curl -X {verbo} -L (link)
+* wc (directorio)
+* wc (directorio) -m
+* wc (directorio) -w
+* less (directorio)
+* head (directorio)
+* tail (directorio) 
+* history
+* reboot
+* shutdown
 * exit
